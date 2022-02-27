@@ -1,0 +1,298 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands new directory: commanded to be used in Great Brittain and Ireland, and may serve to give light to all Christendom.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83978</idno>
+            <idno type="STC">Wing E3003</idno>
+            <idno type="STC">Thomason E406_2</idno>
+            <idno type="STC">ESTC R201903</idno>
+            <idno type="EEBO-CITATION">99862387</idno>
+            <idno type="PROQUEST">99862387</idno>
+            <idno type="VID">160481</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83978)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160481)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E406[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands new directory: commanded to be used in Great Brittain and Ireland, and may serve to give light to all Christendom.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed cum privilegio, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Includes "A hymne for the Army".</note>
+                  <note>Annotation on Thomason copy: "Septemb: 6th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Poetry --  Early works to 1800.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160481:1" rendition="simple:additions"/>
+            <p>ENGLANDS NEW DIRECTORY: Commanded to be uſed in GREAT BRITTAIN and IRELAND, And may ſerve to give Light to all Chriſtendom.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <add>Septemb: 6<hi rend="sup">th</hi>
+                  <g ref="char:punc">▪</g>
+               </add> Printed Cum privilegio, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="religious_tract">
+            <pb facs="tcp:160481:2"/>
+            <pb n="3" facs="tcp:160481:2"/>
+            <head>The general grievance of <hi>Great Brittain</hi> and <hi>Ireland,</hi> and may ſerve to give light to all Chriſtendom.</head>
+            <argument>
+               <p>The firſt Rubrick ſhewing,
+<list>
+                     <item>HOw the Prieſt firſt got all the wealth of <hi>England;</hi>next the Lawyer, and now adayes the Souldier.</item>
+                     <item>
+                        <hi>Secondly,</hi> Shewing there were two Tranſportations; first a Tranſportation of blindneſs by Religion; next a Tranſportation of blindneſs by Law, now adays a Tranſportation of policy, to purge out blindneſs of Religion and Law by Aſſociation, Fortifica<g ref="char:EOLhyphen"/>tion and Garriſon, and making the Law as plain at the Goſpel, ac<g ref="char:EOLhyphen"/>cording to the government of beſt Reformed Churches.</item>
+                     <item>
+                        <hi>Thirdly,</hi> Shewing how that King <hi>James</hi> of the line of <hi>Cad<g ref="char:EOLhyphen"/>wallader,</hi> the laſt Brittain King, endeavored to bring that to paſs 37 years ago, which the Parliament ſince ſwore to perform, <hi>viz.</hi> to add the primitive Law to the primitive Religion for the promo<g ref="char:EOLhyphen"/>tion and connexion of righteouſnes unto piety, the <hi>ſummun bonum</hi> of <hi>policy.</hi>
+                     </item>
+                  </list>
+               </p>
+            </argument>
+            <p>GOD governeth the world by the ſupream Councel of heaven, according unto righteouſneſs and true holineſs. A Parliament in <hi>England</hi> is called the ſu<g ref="char:EOLhyphen"/>pream Councel of <hi>England;</hi> I ask the baynes of Matrimony between Righteouſneſs and true Holineſs; if any man know any lawful reaſon why they may not be joyned to<g ref="char:EOLhyphen"/>gether, let them now ſpeak; becauſe in Parliament time is an appointment for that purpoſe, to be conformable to ſupream Councel: For Injuſtice or Unrighteouſneſs hath had a brazen
+<pb n="4" facs="tcp:160481:3"/>face 536 years (long enough in conſcience) as appears by King <hi>James</hi> ſpeech to the Parliament 1609 publiſhed by authority, and in Parliament time, his tongue ſhould be cut out by the root or elſe we might wiſh his tongue might cleave to the roof of his mouth, that ſo his brazen face might fall and ſpeak no more; as it did in <hi>Oxford,</hi> ſaying, time is, time was, times paſt, and then it fell: Time is of correction, time was of injuſtice, times paſt we ſhal have no more, the Parliament have ſworn to repent of their ſins, and ſo the brazen face wil fall and ſpeak no more. Time was of making a brazen wall round about England, but Frier <hi>Bacon</hi> fel aſleep; time overſlipt, not taking time by the foretop, all the wealth of England went to Rome, into the Pope and Prieſts baggs. Time was of making a brazen wal within England, by planting a more righteous policy, if time be not paſt: becauſe Lawyers and their generations had the Major voyce in Parliament 16<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>9. and wearing buckram bags by their ſides, they were called buckram rogues: Rogues in buckram hindred it 1609 and ſo all the wealth went into buckram ba<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s: as ſome ſay, the E. of <hi>Cork</hi> was a Lawyer, whoſe bag held 40000 l.<hi>per annum.</hi> Since the Parliament 1640 the report went that the Souldier would get all, or run over all. The L. General went ſo far Weſt, that he fell into the ſea at Plimouth and roſe again at Portſmouth: the whilſt, Sir <hi>Wil. Waller</hi> went up a hil as high as <hi>Worceſter,</hi> and then came down again: The Earl of <hi>Mancheſter</hi> came from <hi>York</hi> to <hi>Dunnington</hi> Caſtle with a great Army, and there ſtood ſtil. Sir <hi>Iohn Hotham</hi> was for the Par<g ref="char:EOLhyphen"/>liament, and after for the Privy Councel.</p>
+            <q>
+               <l>The Privy Councel and Parliament ought to fast and pray,</l>
+               <l>For they are the evil Stars the Scots do ſay:</l>
+               <l>Whoſe influence hath had an evil inclination</l>
+               <l>To end few cauſes, but for a prolongation</l>
+               <l>Of controverſy, which is their trade and occupation:</l>
+               <l>Like <hi>Italy, Spain</hi> &amp; <hi>France</hi> whence came the faſhion:</l>
+               <l>
+                  <hi>France</hi> the continent of ſtrife, that vice hither came,</l>
+               <l>Tranſported by the Norman to be Iſland of the ſame:</l>
+               <l>And could a <hi>Norman</hi> baſtard beget a righteous Law?</l>
+               <l>That were ſuch a wonder as no man ever ſaw.</l>
+               <l>The Parliament have ſworn to repent of that ſin,</l>
+               <l>And if the Privy Councel would once begin,</l>
+               <l>It would be an acceptable and ſeaſonable thing,</l>
+               <l>Not only to God of heaven, but alſo unto men.</l>
+               <pb n="5" facs="tcp:160481:3"/>
+               <l> M. <hi>Peters</hi> wiſht <hi>10000</hi> from New England to cauſe the Councel repent,</l>
+               <l>As <hi>20000</hi> from Scotland did make the Parliament:</l>
+               <l>And ſo frame the Law as plain as the Goſpel,</l>
+               <l>According unto the Scots and Hollanders example</l>
+               <l>Of beſt reformed Churches; and leaven the whole earth</l>
+               <l>That of righteouſnes &amp; true holines there be no dearth</l>
+               <l>
+                  <hi>Lex Angliae eſt ancilla Religionis pontificia,</hi>
+               </l>
+               <l>
+                  <hi>Roma pietatis, Antichriſtus, Anglia juſtitiae.</hi>
+               </l>
+               <l>Witneſs <hi>Philip</hi> the <hi>2</hi> of <hi>Spain,</hi> vide <hi>Guiniardine;</hi>
+               </l>
+               <l>And K. <hi>James</hi> in a Parliament speech <hi>1609.</hi>
+               </l>
+               <l>Whereby men are infected with falſe tradition<g ref="char:punc">▪</g> and kept blind in the whole;</l>
+               <l>That the Scot the Phyſitian, might gain by purgation of body and ſoul.</l>
+               <l>And then to ſettle them there is no hopes in beer</l>
+               <l>But wholeſom pots of Scotch ale but 'tis deer:</l>
+               <l>As the E. of <hi>Newcaſtle</hi> ſaid eight years ago in a play;</l>
+               <l>Calld the Country Captain, which did the truth betray:</l>
+               <l>Reformation being of ſuch coſtly conſequence,</l>
+               <l>Which men do hate to the loſs of life and ſenſe.</l>
+            </q>
+            <p>The Conciſtory of Rome hates that any ſhould know Reli<g ref="char:EOLhyphen"/>gion but Prieſts, becauſe 'tis their trade and occupation to gain, by keeping men blind in their whole Eccleſiaſtical or Spiritual Juriſdiction: The former Parliament of England did hate, that any ſhould know Law but Lawyers, becauſe it was their trade and occupation to gain, by keeping men blind in their whole temporal or politick juriſdiction: and ſo men are infected with falſe tradition and kept blind in the whole &amp;c. <hi>Lycurgus</hi> the Lawyer was the Author of falſe tradition, which doth contami<g ref="char:EOLhyphen"/>nate the touchſtone; for purgation whereof the beſt reformed Churches do preſcribe a potion of <hi>Calvins</hi> white wine, the Law as plain as the Goſpel, which is according to their govern<g ref="char:EOLhyphen"/>ment. For Brittain hath been taken by violence of Ro<g ref="char:EOLhyphen"/>mans, Saxons, Danes, after whom came the Normans, who brought hither the French and Cavalier Law, making it lawful to plunder men as faſt as they grew rich, kill them as faſt as populous, except they would ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eak French to be called Normans; (as Hiſtorians write) 535 years after the Norman, entred the Scot of the line of <hi>Cadwallade<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> the laſt Brittain King, and proved it unlawful by the Law of <hi>Moſes,</hi> but Parliaments
+<pb n="6" facs="tcp:160481:4"/>would ſtill maintain the Law; whereby it appeareth that the Roman, Saxon, Dane and Norman were the plunderers of all Brittain; and the laſt, the Norman, made it lawful: Since the Parliament 1643 it hapned that the Lord General was a Nor<g ref="char:EOLhyphen"/>man, Sir <hi>William Waller</hi> a Roman for the Parliament; The Earl of <hi>Newcaſtle</hi> a Saxon, and the Lord <hi>Haſtings</hi> a Dane, for the Privy Councel: Plunderers of <hi>Brittain</hi> by ancient genera<g ref="char:EOLhyphen"/>tion, and ſworn to kill one another by Law, which the Scots could not <hi>ſalva conſcientia</hi> come to maintain, <hi>ergo,</hi> the Parlia<g ref="char:EOLhyphen"/>ment ſwore to repent of their ſins, and govern according unto beſt reformed Churches; to be no longer plunderers or ambi<g ref="char:EOLhyphen"/>dexters by making Prerogative above Parliament to kill up the Country, and Parliament above Prerogative to kill up the City; no man knowing Law but Lawyers, and ſo were like unto the Kingdom of <hi>France,</hi> where they call themſelves the Kingdom of blindmen, becauſe they know neither Law nor Religion; for they ſpeak French, and their Law and Religion ſpeaks Latine. About 15 years paſt a book was printed at <hi>Paris,</hi> called <hi>Le Roya<g ref="char:EOLhyphen"/>alme des Aueugles,</hi> dedicate to Cardinal <hi>Richelieu,</hi> who had a ve<g ref="char:EOLhyphen"/>ry rich place according to his name: for, being Admiral of the Kingdom of blindmen of <hi>France,</hi> he ſet them together by the ears; taxed, plundered and made himſelf an admirable and won<g ref="char:EOLhyphen"/>derful rich Admiral, So in <hi>England</hi> men ſpeak Engliſh, but the Law ſpeaks French, and differ ſomewhat becauſe they know Religion; the Lord <hi>Rich</hi> Earl of <hi>Warwick,</hi> Admiral of the Kingdom of blindmen by Law, in time like to be admirable rich for the ſame reaſon; if the Scots hinder not. <hi>Moustrum horrendum, informe, ingens, cui lumen ademptum,</hi> and ſo confront the Cyclops, calling for help when no man hurts them, but themſelves; wil ye confront the Cyclops ye Poliphemians? The <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ory is in the 9 <hi>No-man</hi> of <hi>Homer</hi> the blind Poet, where <hi>
+                  <g ref="char:V">Ʋ</g>liſſe, William</hi> the <hi>Norman</hi> is the Noman; or a baſtard who is an unlawful man; of the injuſtice in the law of <hi>France</hi> men may read <hi>Philip de Comiues,</hi> who was a privy Councellor unto <hi>Lewis</hi> the 11. <hi>Charls</hi> the 8. and <hi>Lewis</hi> XII. Kings of <hi>France;</hi> who writeth in his Hiſtory that moſt men in <hi>Italy</hi> live by facti<g ref="char:EOLhyphen"/>ons and civil Wars, and ſo infect <hi>Spain</hi> and <hi>France,</hi> and they the reſt of <hi>Europe,</hi> and that in <hi>France</hi> is ſuch tedious and vexa<g ref="char:EOLhyphen"/>tious prooefs of Law that it needeth reformation, but that Re<g ref="char:EOLhyphen"/>formation
+<pb n="7" facs="tcp:160481:4"/>is of ſo dangerous conſequence, which men do hate to the loſs of life and ſenſe.</p>
+            <p>By what hath been written may be underſtood,</p>
+            <p>That Frier <hi>Bacon</hi> would have a brazen wall round about <hi>England,</hi> and K. <hi>James</hi> would have one within; both very ne<g ref="char:EOLhyphen"/>ceſſary according to the reformed, but to build after their man<g ref="char:EOLhyphen"/>ner, are yet to begin.</p>
+            <p>
+               <hi>Corporis politici cum naturali comparatio; ſive modus purgandi corruptiones corporis utriuſque ſecundum purgationem corporis Eccleſiastici tempore Hen,</hi> 8 <hi>vino Rheni Lutheri ſive candido.</hi>
+            </p>
+         </div>
+         <div type="hymn">
+            <head>A Hymne for the ARMY</head>
+            <lg>
+               <l>THe world unpeopled, when but<note n="*" place="margin">Cain &amp; Abel.</note> two, no more</l>
+               <l>Were all the ſtore:</l>
+               <l>Thoſe Brothers which had been enough alone</l>
+               <l>To make two one:</l>
+               <l>Yet pride, and envy, and the tragick crimes</l>
+               <l>Of after times</l>
+               <l>There took beginning and the earth did stain</l>
+               <l>With purple gore, which it doth stil retain.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>There power uſurped firſt upon a Brother,</l>
+               <l>Becauſe us other;</l>
+               <l>And violence opprest the weaker part,</l>
+               <l>By ſtrength not art:</l>
+               <l>The world untaught to do thoſe bad things well</l>
+               <l>Which theſe days tell</l>
+               <l>Of men ſo civiliz'd, as they can do</l>
+               <l>Foul actions fairly and have thanks too.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>The oppreſſors hand might it be armed ſtil</l>
+               <l>Where it wil kil</l>
+               <l>Holding a lost, or ſword, or aſſes jaw,</l>
+               <l>Or Lyons paw;</l>
+               <l>Or peradventure ſome inchanted cup</l>
+               <l>To drink all up</l>
+               <l>So warnd, ſo armd, perhaps the innocent</l>
+               <l>Might all in time th' enſuing stroak prevent,</l>
+            </lg>
+            <lg n="4">
+               <head>4.</head>
+               <l>But all alike are cast into a ſlumber</l>
+               <l>Amongst the number;</l>
+               <pb n="8" facs="tcp:160481:5"/>
+               <l> Be it what it wil, as wel the great as ſmal</l>
+               <l>Are pleaſd withall,</l>
+               <l>And are content for fear of death to dye</l>
+               <l>Rather then flye,</l>
+               <l>Or to avoyde the ſtroak before it come</l>
+               <l>Except it be to give oppreſſion room:</l>
+            </lg>
+            <lg n="5">
+               <head>5.</head>
+               <l>Thus Abel lieth under foot, we have</l>
+               <l>Ere born our grave;</l>
+               <l>The child were happy in the Mothers womb,</l>
+               <l>were it his tomb:</l>
+               <l>And not a further Funeral attend,</l>
+               <l>When all muſt end,</l>
+               <l>Surviving ſome ſhort ſeaſon, but to eat</l>
+               <l>The bread of ſorrow without other meat.</l>
+            </lg>
+            <lg n="6">
+               <head>6,</head>
+               <l>But to behold the <g ref="char:V">Ʋ</g>ulgar innocence,</l>
+               <l>With what expence</l>
+               <l>They carry fuel to their own Sacrifice,</l>
+               <l>And pleaſe their eyes</l>
+               <l>With ſight of the Executioner, who ſhal</l>
+               <l>Make up with all,</l>
+               <l>Would breed astoniſhment, but that we ſee</l>
+               <l>In what confuſion and what miſt we bee.</l>
+               <l>If ever ignorance deſerved praiſe,</l>
+               <l>Tis in our daies;</l>
+               <l>Men run to death as to a wedding feast,</l>
+               <l>And think them blest</l>
+               <l>When they are leaſt; and have their ſpecial grace</l>
+               <l>To ſet a face</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>pon their proper woes, in what ſweet error</l>
+               <l>Are you involv'd to periſh without terror.</l>
+               <l>My afflicted Country, take theſe tears of thine</l>
+               <l>Or rather thine;</l>
+               <l>Or change a tear with me, I care not whether,</l>
+               <l>Lets weep together,</l>
+               <l>Betimes too, whilſt our tears are known for ours</l>
+               <l>Ere many hours,</l>
+               <l>We are no more our ſelves, we ſhal become</l>
+               <l>Somewhat we are not; and others take our room.</l>
+            </lg>
+            <byline>Written by a Yeoman, No-man is a Gentleman, who plunders as faſt as rich, kils as faſt as populous.</byline>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
